@@ -15,6 +15,8 @@
 | `js/udemy_expandir_secoes.js` | Expande todas as seções do currículo de um curso na Udemy pelo console |
 | `sql/tabela_cidadaos_dados_fake.sql` | Cria tabela `cidadaos` e insere registros fictícios (PostgreSQL) |
 | `java/leetcode_best_time_to_buy_and_sell_stock.java` | Rascunho incompleto do problema 121 do LeetCode |
+| `java/shapes-java2d/` | Canvas Java2D com formas geométricas móveis (dodecágono), exercício de 2019 |
+| `shell/instalar_opencv_2_4_13_ubuntu.sh` | Instala dependências e compila o OpenCV 2.4.13 no Ubuntu (2018) |
 | `config/pyproject_ruff_exemplo.toml` | Configuração de referência do Ruff (formatação e lint) |
 
 ## Status
